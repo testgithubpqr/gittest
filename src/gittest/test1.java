@@ -8,6 +8,7 @@ public class test1 {
 		
 		//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
 		System.out.println("first commit from tester");
+		System.out.println("another commit from master");
 	}
 
 }
