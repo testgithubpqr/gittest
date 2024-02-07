@@ -12,6 +12,7 @@ public class test1 {
 		
 		//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
 		System.out.println("another commit from tester1");
+		System.out.println("conflict commit from tester1");
 	}
 
 }
